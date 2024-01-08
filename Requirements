@@ -1,0 +1,9 @@
+You should download some of these pips:
+pip install textblob
+pip install matplotlib
+pip install streamlit
+
+while running you should use 
+streamlit run social_media_sentiment.py 
+
+the .ipynb file  which is a jupyter notebook file is the main , i just used streamlit to bulid web application, it doesnot uses any prediction in that web app. It just does is analyses the sentiments.
